@@ -1,0 +1,4 @@
+Was ist Selenium? Selenium ist ein kostenloses (Open-Source) automatisiertes Test-Framework, das zur Validierung
+von Webanwendungen über verschiedene Browser und Plattformen hinweg verwendet wird. Sie können mehrere Programmiersprachen
+wie Java, C#, Python usw. verwenden, um Selenium-Testskripte zu erstellen. Tests, die mit dem Selenium-Testtool
+durchgeführt werden, werden in der Regel als Selenium-Tests bezeichnet.
